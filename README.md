@@ -8,5 +8,5 @@ I'am nekozu. 12 y.o school at smp it bina ilmi palembang
 # Tools
 <p>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Termux-Termux-blue?&logo=termux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Termux-Termux-black?&logo=termux&logoColor=black" />
 </p>
