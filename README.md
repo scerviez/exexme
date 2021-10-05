@@ -35,5 +35,5 @@ thank you for visiting my github profile!. Byeee
 # Tools
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <p>
-    <img src="https://img.shields.io/badge/Android-Android-black?&logo=android&logoColor=black" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
