@@ -33,7 +33,7 @@ thank you for visiting my github profile!. Byeee
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekozu&custom_title=Language+Stats&theme=tokyonight&hide_border=true)
 
 # Tools
-[![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <p>
     <img src="https://img.shields.io/badge/Android-Android-black?&logo=android&logoColor=black" />
 </p>
