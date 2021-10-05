@@ -29,8 +29,8 @@ thank you for visiting my github profile!. Byeee
 ~/nekozu/home$ 
 ```
 
-# Language I Learn
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekozu&custom_title=Languages%20I%20Learn&theme=tokyonight&hide_border=true)
+# Language Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekozu&custom_title=Language+Stats&theme=tokyonight&hide_border=true)
 
 # Tools
 [![Termux](https://img.shields.io/badge/Termux-Android-brightgreen.svg)](https://termux.com/)
