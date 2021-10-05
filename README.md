@@ -4,10 +4,11 @@
 ```
 const fs = require('fs')
 
-function Hi()
+function Hi() {
   let me = fs.readFileSync('aboutme.json');
-  let about = JSON.parse(rawdata);
+  let about = JSON.parse(me);
   console.log(about)
+}
   
 Hi()
 console.log('thank you for visiting my github profile!. Byeee')
@@ -22,7 +23,7 @@ console.log('thank you for visiting my github profile!. Byeee')
   "school": "Sekolah Menengah Pertama/Junior high school Bina Ilmi",
   "country": "Indonesian",
   "languages": "Javascript. Python.",
-  "the language being studied": "Golang, Nextjs",
+  "the language being studied": "Golang, Nextjs"
 }
 thank you for visiting my github profile!. Byeee
 ~/nekozu/home$ 
