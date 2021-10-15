@@ -22,7 +22,7 @@ console.log('thank you for visiting my github profile!. Byeee')
   "age": "12",
   "school": "Sekolah Menengah Pertama/Junior high school Bina Ilmi",
   "country": "Indonesian",
-  "languages": "Javascript. Python. CoffeScript",
+  "languages": "Javascript. Python",
 }
 thank you for visiting my github profile!. Byeee
 ~/nekozu/home$ 
