@@ -18,11 +18,11 @@ console.log('thank you for visiting my github profile!. Byeee')
   "name": "Nekozu",
   "gender": "Male",
   "game": "valorant, minecraft, roblox",
-  "skills": "react, express, nodejs, python",
+  "skills": "reactjs, express, nodejs, python, nextjs, Gin",
   "age": "12",
   "school": "Sekolah Menengah Pertama/Junior high school Bina Ilmi",
   "country": "Indonesian",
-  "languages": "Javascript. Python",
+  "languages": "Javascript. Python, Golang",
 }
 thank you for visiting my github profile!. Byeee
 ~/nekozu/home$ 
