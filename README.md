@@ -15,7 +15,7 @@ console.log('thank you for visiting my github profile!. Byeee')
 
 ~/nekozu/home$ node about.js
 {
-  "name": "Nekozu",
+  "name": "exex",
   "gender": "Male",
   "game": "valorant, minecraft, roblox",
   "skills": "reactjs, express, nodejs, python, nextjs, Gin",
@@ -29,7 +29,7 @@ thank you for visiting my github profile!. Byeee
 ```
 
 # Language Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekozu&custom_title=Language+Stats&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exexme&custom_title=Language+Stats&theme=tokyonight&hide_border=true)
 
 # Tools
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
