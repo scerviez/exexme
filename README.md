@@ -17,7 +17,7 @@ console.log('thank you for visiting my github profile!. Byeee')
 {
   "name": "exex",
   "gender": "Male",
-  "game": "valorant, minecraft, roblox",
+  "game": "genshin impact, minecraft, roblox",
   "skills": "reactjs, express, nodejs, python, nextjs, Gin",
   "age": "12",
   "school": "Sekolah Menengah Pertama/Junior high school Bina Ilmi",
